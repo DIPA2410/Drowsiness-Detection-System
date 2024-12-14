@@ -68,8 +68,8 @@ Websites referred:
 
 ## Authors
 
-<p> *Smita Jha* </p> 
-*Dipa Roy*
-*Rajdip Barman*
-*Joy Hazra*
-*Bhagyashree Singh*
+<p> Smita Jha </p> 
+<p> Dipa Roy </p>
+<p> Rajdip Barman </p>
+<p> Joy Hazra </p>
+<p> Bhagyashree Singh </p>
