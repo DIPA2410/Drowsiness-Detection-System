@@ -52,9 +52,15 @@ Smart phone application: It can be implemented as a smart phone application, whi
 
 IEEE standard Journal Paper,
 
-[1]	Facial Features Monitoring for Real Time Drowsiness Detection by Manu B.N, 2016 12th International Conference on Innovations in Information Technology (IIT) [Pg. 78-81] (https://ieeexplore.ieee.org/document/7880030)
+[1] A. Y. e. al., ""Driver Drowsiness Detection Techniques: A Review," Proceedings of the IEEE International Conference on Smart Technologies for Smart Nation (SmartTechCon)," (https://ieeexplore.ieee.org/document/8358464), p. pp. 1101–1106, 2017. 
 
-[2]	Real Time Drowsiness Detection using Eye Blink Monitoring by Amna Rahman Department of Software Engineering Fatima Jinnah Women University 2015 National Software Engineering Conference (NSEC 2015) (https://ieeexplore.ieee.org/document/7396336)
+[2] K. Roy, S. Bhattacharjee, and A. Ghosh, "Real-Time Driver Drowsiness Detection Using Facial Features and Machine Learning," IEEE Access, vol. 9, pp. 88739–88753, 2021. (https://ieeexplore.ieee.org/document/9456325). 
+
+[3] Facial Features Monitoring for Real Time Drowsiness Detection by Manu B.N, 2016 12th International Conference on Innovations in Information Technology (IIT) [Pg. 78-81] (https://ieeexplore.ieee.org/document/7880030). 
+
+[4] Real Time Drowsiness Detection using Eye Blink Monitoring by Amna Rahman Department of Software Engineering Fatima Jinnah Women University 2015 National Software Engineering Conference (NSEC 2015) (https://ieeexplore.ieee.org/document/7396336). 
+
+[5] R. K Yadav, Richa Gupta, Srikar Sundram, Sakshi Awasthi, Harsh Anand Real Time Driver Drowsiness Detection System using Facial Expression (2023) . (https://ijarsct.co.in/Paper10895.pdf)
 
 Websites referred:
 
