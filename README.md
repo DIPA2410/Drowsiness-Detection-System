@@ -48,7 +48,7 @@ The system was extensively tested even in real world scenarios, this was achieve
 
 Smart phone application: It can be implemented as a smart phone application, which can be installed on smart phones. And the automobile driver can start the application after placing it at a position where the camera is focused on the driver.
 
-## References******************
+## References
 
 IEEE standard Journal Paper,
 
