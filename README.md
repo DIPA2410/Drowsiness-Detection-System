@@ -68,7 +68,7 @@ Websites referred:
 
 ## Authors
 
-*Smita Jha*
+<p> *Smita Jha* </p> 
 *Dipa Roy*
 *Rajdip Barman*
 *Joy Hazra*
