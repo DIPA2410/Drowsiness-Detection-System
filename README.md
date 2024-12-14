@@ -20,7 +20,7 @@ Drowsiness detection is a safety technology that can prevent accidents that are 
 6. The cropped eye images are sent to the hough transformations for detecting pupils, which will determine whether they are open or closed.
 7. If they are found to be closed for five continuous frames, then the driver should be alerted by playing the buzzer.
 
-For a more detailed explanation of this project check [Real_Time_Drowsiness_Detection_System.pdf](https://github.com/AnshumanSrivastava108/Real-Time-Drowsiness-Detection-System/blob/main/Real_Time_Drowsiness_Detection_System.pdf).***************
+For a more detailed explanation of this project check [Drowsiness-Detection_Report_2024.pdf](https://github.com/AnshumanSrivastava108/Real-Time-Drowsiness-Detection-System/blob/main/Real_Time_Drowsiness_Detection_System.pdf).***************
 
 ## Testing and Results in Real-World Scenario:
 
@@ -44,7 +44,7 @@ Test case 3: Yawning
 
 The system was extensively tested even in real world scenarios, this was achieved by placing the camera on the visor of the car, focusing on the automobile driver. It was found that the system gave positive output unless there was any direct light falling on the camera.       
 
-## Future Scope******************
+## Future Scope
 
 Smart phone application: It can be implemented as a smart phone application, which can be installed on smart phones. And the automobile driver can start the application after placing it at a position where the camera is focused on the driver.
 
