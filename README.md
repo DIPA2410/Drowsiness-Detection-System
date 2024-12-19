@@ -27,19 +27,19 @@ For a more detailed explanation of this project check [Drowsiness-Detection_Repo
 Test case 1: Open Eyes 
 
 <p align="center">
-<img width="600" height="350" src="![Screenshot 2024-12-19 180930](https://github.com/user-attachments/assets/4a78f4cf-7960-47db-a83b-efbb44a7aa1e)">
+<img width="600" height="350" src="https://github.com/user-attachments/assets/4a78f4cf-7960-47db-a83b-efbb44a7aa1e">
 </p>
                                   
 Test case 2: Closed Eyes
 
 <p align="center">
-<img width="600" height="350" src="![Screenshot 2024-12-19 180844](https://github.com/user-attachments/assets/ce0019c3-d819-4ca3-9af5-24af1dc8c7db)">
+<img width="600" height="350" src="https://github.com/user-attachments/assets/ce0019c3-d819-4ca3-9af5-24af1dc8c7db">
 </p>
                                                                
 Test case 3: Yawning     
                                    
 <p align="center">
-<img width="600" height="350" src="![Screenshot 2024-12-19 180955](https://github.com/user-attachments/assets/975c718f-1d9f-46d3-9fd0-b7bb477bffb9)">
+<img width="600" height="350" src="https://github.com/user-attachments/assets/975c718f-1d9f-46d3-9fd0-b7bb477bffb9">
 </p>
 
 The system was extensively tested even in real world scenarios, this was achieved by placing the camera on the visor of the car, focusing on the automobile driver. It was found that the system gave positive output unless there was any direct light falling on the camera.       
