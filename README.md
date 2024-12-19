@@ -79,3 +79,11 @@ Websites referred:
 <p> Rajdip Barman </p>
 <p> Joy Hazra </p>
 <p> Bhagyashree Singh </p>
+
+![Screenshot 2024-12-19 180955](https://github.com/user-attachments/assets/975c718f-1d9f-46d3-9fd0-b7bb477bffb9)
+![Screenshot 2024-12-19 180930](https://github.com/user-attachments/assets/4a78f4cf-7960-47db-a83b-efbb44a7aa1e)
+![Screenshot 2024-12-19 180844](https://github.com/user-attachments/assets/ce0019c3-d819-4ca3-9af5-24af1dc8c7db)
+
+
+
+
