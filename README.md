@@ -27,19 +27,19 @@ For a more detailed explanation of this project check [Drowsiness-Detection_Repo
 Test case 1: Open Eyes 
 
 <p align="center">
-<img width="600" height="350" src="https://github.com/user-attachments/assets/ee2bb23f-2614-4590-9bd3-4fc0dfe0e261">
+<img width="600" height="350" src="![Screenshot 2024-12-19 180930](https://github.com/user-attachments/assets/4a78f4cf-7960-47db-a83b-efbb44a7aa1e)">
 </p>
                                   
 Test case 2: Closed Eyes
 
 <p align="center">
-<img width="600" height="350" src="https://github.com/user-attachments/assets/4b332d85-c02a-4674-b52e-0a13bc75024b">
+<img width="600" height="350" src="![Screenshot 2024-12-19 180844](https://github.com/user-attachments/assets/ce0019c3-d819-4ca3-9af5-24af1dc8c7db)">
 </p>
                                                                
 Test case 3: Yawning     
                                    
 <p align="center">
-<img width="600" height="350" src="https://github.com/user-attachments/assets/7cf2457f-00bc-47d7-863b-60f246c12c45">
+<img width="600" height="350" src="![Screenshot 2024-12-19 180955](https://github.com/user-attachments/assets/975c718f-1d9f-46d3-9fd0-b7bb477bffb9)">
 </p>
 
 The system was extensively tested even in real world scenarios, this was achieved by placing the camera on the visor of the car, focusing on the automobile driver. It was found that the system gave positive output unless there was any direct light falling on the camera.       
@@ -80,9 +80,7 @@ Websites referred:
 <p> Joy Hazra </p>
 <p> Bhagyashree Singh </p>
 
-![Screenshot 2024-12-19 180955](https://github.com/user-attachments/assets/975c718f-1d9f-46d3-9fd0-b7bb477bffb9)
-![Screenshot 2024-12-19 180930](https://github.com/user-attachments/assets/4a78f4cf-7960-47db-a83b-efbb44a7aa1e)
-![Screenshot 2024-12-19 180844](https://github.com/user-attachments/assets/ce0019c3-d819-4ca3-9af5-24af1dc8c7db)
+
 
 
 
